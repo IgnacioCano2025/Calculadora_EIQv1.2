@@ -8,7 +8,7 @@ export default function Header() {
         <img src="/edra-logo.png" alt="EDRA" className="h-10 w-auto" />
         <div>
           <h1 className="text-2xl font-bold">{t('title')}</h1>
-          <p className="text-xs text-slate-600">Paridad con Excel — versión MVP</p>
+          <p className="text-xs text-slate-600">EDRA GLOBAL — versión MVP</p>
         </div>
       </div>
     </header>
