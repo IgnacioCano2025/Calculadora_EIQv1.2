@@ -1,0 +1,17 @@
+{
+  "ING1": {
+    "id": "ING1",
+    "name": "Ingrediente 1",
+    "eiq": 10
+  },
+  "ING2": {
+    "id": "ING2",
+    "name": "Ingrediente 2",
+    "eiq": 20
+  },
+  "ING3": {
+    "id": "ING3",
+    "name": "Ingrediente 3",
+    "eiq": 5
+  }
+}

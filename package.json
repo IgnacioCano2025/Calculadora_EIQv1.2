@@ -1,0 +1,42 @@
+{
+  "name": "edra-eiq-calculator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:watch": "vitest --watch"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^4.5.2",
+    "react-hook-form": "^7.52.0",
+    "zod": "^3.23.8",
+    "@tanstack/react-table": "^8.20.5",
+    "lucide-react": "^0.447.0",
+    "xlsx": "^0.18.5",
+    "i18next": "^23.11.5",
+    "react-i18next": "^13.5.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.4",
+    "@hookform/resolvers": "^3.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "tailwindcss": "^3.4.10",
+    "postcss": "^8.4.41",
+    "autoprefixer": "^10.4.20",
+    "vitest": "^2.0.5",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/jest-dom": "^6.4.8",
+    "jsdom": "^25.0.0"
+  }
+}

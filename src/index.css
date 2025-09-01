@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --header-h: 64px;
+}
+
+body { @apply text-slate-900; }
+.card { @apply bg-white shadow-sm rounded-2xl p-6 border border-slate-100; }
+.btn { @apply inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-edra-primary text-white hover:opacity-90 transition; }
+.btn-outline { @apply inline-flex items-center gap-2 px-4 py-2 rounded-xl border border-slate-400 text-slate-700 hover:bg-slate-50; }
+.input { @apply w-full rounded-xl border border-slate-300 px-3 py-2 bg-white text-slate-900 placeholder-slate-400 focus:ring-2 focus:ring-edra-primary focus:border-edra-primary; }
+.label { @apply text-sm font-medium text-slate-600; }

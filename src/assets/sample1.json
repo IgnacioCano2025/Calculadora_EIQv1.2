@@ -1,0 +1,36 @@
+{
+  "producerName": "Estancia La Nina",
+  "fieldName": "Lote 12",
+  "campaign": "Campa\u00f1a 25/26",
+  "areaHa": 25,
+  "products": [
+    {
+      "id": "p1",
+      "name": "Herbicida A",
+      "dose": 1.2,
+      "unit": "L/ha",
+      "ingredients": [
+        {
+          "ingredientId": "ING1",
+          "percentActive": 40
+        },
+        {
+          "ingredientId": "ING2",
+          "percentActive": 20
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Fungicida B",
+      "dose": 0.8,
+      "unit": "L/ha",
+      "ingredients": [
+        {
+          "ingredientId": "ING3",
+          "percentActive": 50
+        }
+      ]
+    }
+  ]
+}

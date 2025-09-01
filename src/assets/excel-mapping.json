@@ -1,0 +1,35 @@
+{
+  "inputs": {
+    "sheet": "Inputs",
+    "producerName": "B2",
+    "fieldName": "B3",
+    "campaign": "B4",
+    "areaHa": "B5",
+    "products": {
+      "range": "A8:F200",
+      "columns": {
+        "name": "A",
+        "dose": "B",
+        "unit": "C"
+      },
+      "ingredientPercents": [
+        "D",
+        "E",
+        "F"
+      ]
+    }
+  },
+  "catalogs": {
+    "sheet": "Ingredientes",
+    "columns": {
+      "id": "ID",
+      "name": "Nombre",
+      "eiq": "EIQ"
+    },
+    "ingredientsOrder": [
+      "ING1",
+      "ING2",
+      "ING3"
+    ]
+  }
+}

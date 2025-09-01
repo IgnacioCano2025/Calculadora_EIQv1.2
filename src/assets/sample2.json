@@ -1,0 +1,20 @@
+{
+  "producerName": "AgroDemo SRL",
+  "fieldName": "Lote Norte",
+  "campaign": "Campa\u00f1a 26/27",
+  "areaHa": 12,
+  "products": [
+    {
+      "id": "p1",
+      "name": "Insecticida X",
+      "dose": 1.0,
+      "unit": "L/ha",
+      "ingredients": [
+        {
+          "ingredientId": "ING2",
+          "percentActive": 60
+        }
+      ]
+    }
+  ]
+}

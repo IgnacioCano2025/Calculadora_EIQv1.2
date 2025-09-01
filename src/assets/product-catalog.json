@@ -1,0 +1,1568 @@
+{
+  "ACETOCLORPHILAGRO": {
+    "id": "ACETOCLORPHILAGRO",
+    "name": "ACETOCLORPHILAGRO",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.8,
+    "conventionalRate": null,
+    "percentAI": 0.9,
+    "eiqPerHa_atSheetRate": 31.516403126472
+  },
+  "ACRONIS": {
+    "id": "ACRONIS",
+    "name": "ACRONIS",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 106.42007337892414
+  },
+  "ADAMALINURON50": {
+    "id": "ADAMALINURON50",
+    "name": "ADAMALINURON50",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.4,
+    "eiqPerHa_atSheetRate": 42.59330901840001
+  },
+  "ALIETTE": {
+    "id": "ALIETTE",
+    "name": "ALIETTE",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.8,
+    "eiqPerHa_atSheetRate": 42.328754304
+  },
+  "ALIKA": {
+    "id": "ALIKA",
+    "name": "ALIKA",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.2,
+    "conventionalRate": null,
+    "percentAI": 0.221,
+    "eiqPerHa_atSheetRate": 1.8500458151319492
+  },
+  "BASAGRAN": {
+    "id": "BASAGRAN",
+    "name": "BASAGRAN",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 30.6883468651089
+  },
+  "BASAGRAN60": {
+    "id": "BASAGRAN60",
+    "name": "BASAGRAN60",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 1.4,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 42.96368561115246
+  },
+  "BENEVIA": {
+    "id": "BENEVIA",
+    "name": "BENEVIA",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 2.425636037655
+  },
+  "BOGARD": {
+    "id": "BOGARD",
+    "name": "BOGARD",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 6.0627122049999995
+  },
+  "CHLOROTHALONIL": {
+    "id": "CHLOROTHALONIL",
+    "name": "CHLOROTHALONIL",
+    "userUom": "lt/ha",
+    "maxRateKgHa": 1.75,
+    "conventionalRate": null,
+    "percentAI": 1.0,
+    "eiqPerHa_atSheetRate": 144.3568519849436
+  },
+  "CHLORPYRIFOS": {
+    "id": "CHLORPYRIFOS",
+    "name": "CHLORPYRIFOS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 1.0,
+    "eiqPerHa_atSheetRate": 236.776469388
+  },
+  "CLORPIRIFOS": {
+    "id": "CLORPIRIFOS",
+    "name": "CLORPIRIFOS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 1.0,
+    "eiqPerHa_atSheetRate": 177.582352041
+  },
+  "CONFIDOR": {
+    "id": "CONFIDOR",
+    "name": "CONFIDOR",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.44,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 8.902486601822
+  },
+  "CONFIDOROD": {
+    "id": "CONFIDOROD",
+    "name": "CONFIDOROD",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.44,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 7.1219892814576
+  },
+  "COSMIC": {
+    "id": "COSMIC",
+    "name": "COSMIC",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.36,
+    "eiqPerHa_atSheetRate": 3.6500613945767992
+  },
+  "DECIS": {
+    "id": "DECIS",
+    "name": "DECIS",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.075,
+    "conventionalRate": null,
+    "percentAI": 0.025,
+    "eiqPerHa_atSheetRate": 0.1173272600443461
+  },
+  "DECISFORTE": {
+    "id": "DECISFORTE",
+    "name": "DECISFORTE",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.075,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 0.4693090401773844
+  },
+  "DITHANEDF": {
+    "id": "DITHANEDF",
+    "name": "DITHANEDF",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.75,
+    "eiqPerHa_atSheetRate": 106.31792584949999
+  },
+  "DITHANENT": {
+    "id": "DITHANENT",
+    "name": "DITHANENT",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.8,
+    "eiqPerHa_atSheetRate": 113.4057875728
+  },
+  "ENGEO\u00ae": {
+    "id": "ENGEO\u00ae",
+    "name": "ENGEO\u00ae",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.247,
+    "eiqPerHa_atSheetRate": 6.383476128315086
+  },
+  "EQUATIONPRO": {
+    "id": "EQUATIONPRO",
+    "name": "EQUATIONPRO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.525,
+    "eiqPerHa_atSheetRate": 17.16397917291068
+  },
+  "FROWNCIDE": {
+    "id": "FROWNCIDE",
+    "name": "FROWNCIDE",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.384,
+    "eiqPerHa_atSheetRate": 29.630128008567123
+  },
+  "HERBAGLEX": {
+    "id": "HERBAGLEX",
+    "name": "HERBAGLEX",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.9375,
+    "conventionalRate": null,
+    "percentAI": 0.28,
+    "eiqPerHa_atSheetRate": 9.872851248015001
+  },
+  "INFINITO": {
+    "id": "INFINITO",
+    "name": "INFINITO",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.6875,
+    "eiqPerHa_atSheetRate": 59.91172200980999
+  },
+  "LINURON": {
+    "id": "LINURON",
+    "name": "LINURON",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.8,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 59.63063262575999
+  },
+  "LORD36EC": {
+    "id": "LORD36EC",
+    "name": "LORD36EC",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.45,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 4.2163407607500005
+  },
+  "LORSBAN48E(DOW)": {
+    "id": "LORSBAN48E(DOW)",
+    "name": "LORSBAN48E(DOW)",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.24,
+    "conventionalRate": null,
+    "percentAI": 0.36,
+    "eiqPerHa_atSheetRate": 5.1143717387808
+  },
+  "LORSBANPLUS": {
+    "id": "LORSBANPLUS",
+    "name": "LORSBANPLUS",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.225,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 6.6593382015375004
+  },
+  "MANZATE": {
+    "id": "MANZATE",
+    "name": "MANZATE",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.75,
+    "eiqPerHa_atSheetRate": 106.31792584949999
+  },
+  "MCPA": {
+    "id": "MCPA",
+    "name": "MCPA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.4,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "MULTIPLICAR": {
+    "id": "MULTIPLICAR",
+    "name": "MULTIPLICAR",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.15,
+    "eiqPerHa_atSheetRate": 3.6376273229999994
+  },
+  "NATIVO": {
+    "id": "NATIVO",
+    "name": "NATIVO",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.75,
+    "eiqPerHa_atSheetRate": 30.4366524500237
+  },
+  "PADAN": {
+    "id": "PADAN",
+    "name": "PADAN",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.153,
+    "conventionalRate": null,
+    "percentAI": 0.14,
+    "eiqPerHa_atSheetRate": 2.2272735741846663
+  },
+  "PRESTIGE29FS(BAYER)": {
+    "id": "PRESTIGE29FS(BAYER)",
+    "name": "PRESTIGE29FS(BAYER)",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.525,
+    "eiqPerHa_atSheetRate": 29.578686811903182
+  },
+  "PRISMAULTRA": {
+    "id": "PRISMAULTRA",
+    "name": "PRISMAULTRA",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.325,
+    "eiqPerHa_atSheetRate": 10.375957154445105
+  },
+  "REGLONE": {
+    "id": "REGLONE",
+    "name": "REGLONE",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 38.801358112
+  },
+  "REVUSTOP": {
+    "id": "REVUSTOP",
+    "name": "REVUSTOP",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.7,
+    "conventionalRate": null,
+    "percentAI": 0.437999999999999,
+    "eiqPerHa_atSheetRate": 16.60834263091006
+  },
+  "ROGORPLUS": {
+    "id": "ROGORPLUS",
+    "name": "ROGORPLUS",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.2,
+    "conventionalRate": null,
+    "percentAI": 0.407,
+    "eiqPerHa_atSheetRate": 6.00999085966532
+  },
+  "ROTHALONIL72": {
+    "id": "ROTHALONIL72",
+    "name": "ROTHALONIL72",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.75,
+    "eiqPerHa_atSheetRate": 154.66805569815386
+  },
+  "SENCOREX48(BAYER)": {
+    "id": "SENCOREX48(BAYER)",
+    "name": "SENCOREX48(BAYER)",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 1.4,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 43.77645649627745
+  },
+  "SINPLAG48": {
+    "id": "SINPLAG48",
+    "name": "SINPLAG48",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.127,
+    "eiqPerHa_atSheetRate": 22.552958709207
+  },
+  "TETRACONAZOLE": {
+    "id": "TETRACONAZOLE",
+    "name": "TETRACONAZOLE",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 11.98763549625
+  },
+  "VERTIMEC": {
+    "id": "VERTIMEC",
+    "name": "VERTIMEC",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.16,
+    "conventionalRate": null,
+    "percentAI": 0.018,
+    "eiqPerHa_atSheetRate": 0.22021534424539563
+  },
+  "VERTIMEC(SYNGENTA)": {
+    "id": "VERTIMEC(SYNGENTA)",
+    "name": "VERTIMEC(SYNGENTA)",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.16,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 3.0585464478527173
+  },
+  "VERTIMEC8,4SC": {
+    "id": "VERTIMEC8,4SC",
+    "name": "VERTIMEC8,4SC",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.16,
+    "conventionalRate": null,
+    "percentAI": 0.084,
+    "eiqPerHa_atSheetRate": 1.027671606478513
+  },
+  "VERTIMEC8.4SC(SYNGENTA)": {
+    "id": "VERTIMEC8.4SC(SYNGENTA)",
+    "name": "VERTIMEC8.4SC(SYNGENTA)",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.16,
+    "conventionalRate": null,
+    "percentAI": 0.0084,
+    "eiqPerHa_atSheetRate": 0.1027671606478513
+  },
+  "ZAMPRO": {
+    "id": "ZAMPRO",
+    "name": "ZAMPRO",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 1.2,
+    "conventionalRate": null,
+    "percentAI": 0.525,
+    "eiqPerHa_atSheetRate": 21.572466879886672
+  },
+  "ZAMPRODM": {
+    "id": "ZAMPRODM",
+    "name": "ZAMPRODM",
+    "userUom": "L/HA",
+    "maxRateKgHa": 1.2,
+    "conventionalRate": null,
+    "percentAI": 0.525,
+    "eiqPerHa_atSheetRate": 21.561209232198024
+  },
+  "ZORVEC": {
+    "id": "ZORVEC",
+    "name": "ZORVEC",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 0.2,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 0.8523071048920001
+  },
+  "ZORVECENICADE": {
+    "id": "ZORVECENICADE",
+    "name": "ZORVECENICADE",
+    "userUom": "lt/ha",
+    "maxRateKgHa": 0.577499999999999,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 2.461036765375646
+  },
+  "LORSBAN": {
+    "id": "LORSBAN",
+    "name": "LORSBAN",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.225,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 6.3929646734759995
+  },
+  "AZIMUT": {
+    "id": "AZIMUT",
+    "name": "AZIMUT",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 1.7,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 25.226210607675114
+  },
+  "SOLANIL": {
+    "id": "SOLANIL",
+    "name": "SOLANIL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.75,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 103.9369334291594
+  },
+  "DOMARK": {
+    "id": "DOMARK",
+    "name": "DOMARK",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.18,
+    "eiqPerHa_atSheetRate": 8.28772758236107
+  },
+  "ISHICLORFOS": {
+    "id": "ISHICLORFOS",
+    "name": "ISHICLORFOS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 85.23952897967999
+  },
+  "ROGORL40": {
+    "id": "ROGORL40",
+    "name": "ROGORL40",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.18,
+    "conventionalRate": null,
+    "percentAI": 0.4,
+    "eiqPerHa_atSheetRate": 5.3159624311536
+  },
+  "ROYALMH": {
+    "id": "ROYALMH",
+    "name": "ROYALMH",
+    "userUom": "L/ha",
+    "maxRateKgHa": 7.0,
+    "conventionalRate": null,
+    "percentAI": 0.246,
+    "eiqPerHa_atSheetRate": 98.83190926837347
+  },
+  "DUALGOLD": {
+    "id": "DUALGOLD",
+    "name": "DUALGOLD",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.2,
+    "conventionalRate": null,
+    "percentAI": 0.54,
+    "eiqPerHa_atSheetRate": 31.42910007072
+  },
+  "SENCOREX": {
+    "id": "SENCOREX",
+    "name": "SENCOREX",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 45.02721239617109
+  },
+  "PROMESS": {
+    "id": "PROMESS",
+    "name": "PROMESS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.722,
+    "eiqPerHa_atSheetRate": 84.36208917692
+  },
+  "ACTARA": {
+    "id": "ACTARA",
+    "name": "ACTARA",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.345,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 6.331634827332045
+  },
+  "TALONE": {
+    "id": "TALONE",
+    "name": "TALONE",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 82.48962970568206
+  },
+  "VANTAL": {
+    "id": "VANTAL",
+    "name": "VANTAL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.35,
+    "conventionalRate": null,
+    "percentAI": 0.036,
+    "eiqPerHa_atSheetRate": 0.9634421310736059
+  },
+  "KARATEZEON": {
+    "id": "KARATEZEON",
+    "name": "KARATEZEON",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.05,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 0.48685416195341036
+  },
+  "DACONIL": {
+    "id": "DACONIL",
+    "name": "DACONIL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 118.78506677618216
+  },
+  "AZOXYPRO": {
+    "id": "AZOXYPRO",
+    "name": "AZOXYPRO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.28,
+    "eiqPerHa_atSheetRate": 10.508632775288405
+  },
+  "BECTRA": {
+    "id": "BECTRA",
+    "name": "BECTRA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.0,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 30.018141597447393
+  },
+  "FUNDA": {
+    "id": "FUNDA",
+    "name": "FUNDA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 103.11203713210259
+  },
+  "ZAMURAY": {
+    "id": "ZAMURAY",
+    "name": "ZAMURAY",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.07,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 0.6844250923790001
+  },
+  "MANCOZEB": {
+    "id": "MANCOZEB",
+    "name": "MANCOZEB",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.75,
+    "eiqPerHa_atSheetRate": 106.31792584949999
+  },
+  "POLYRAMDF": {
+    "id": "POLYRAMDF",
+    "name": "POLYRAMDF",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.8,
+    "eiqPerHa_atSheetRate": 179.06434835287865
+  },
+  "BELLIS": {
+    "id": "BELLIS",
+    "name": "BELLIS",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.38,
+    "eiqPerHa_atSheetRate": 5.5777797399421285
+  },
+  "BIFENTRIN": {
+    "id": "BIFENTRIN",
+    "name": "BIFENTRIN",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.15,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 3.6665629948874994
+  },
+  "VALIS": {
+    "id": "VALIS",
+    "name": "VALIS",
+    "userUom": "Kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.66,
+    "eiqPerHa_atSheetRate": 88.41639018943005
+  },
+  "JANFRYXTRA": {
+    "id": "JANFRYXTRA",
+    "name": "JANFRYXTRA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.325,
+    "eiqPerHa_atSheetRate": 10.76032208380623
+  },
+  "PYRINEX": {
+    "id": "PYRINEX",
+    "name": "PYRINEX",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 14.20658816328
+  },
+  "TRIBUNE": {
+    "id": "TRIBUNE",
+    "name": "TRIBUNE",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.7,
+    "conventionalRate": null,
+    "percentAI": 0.7,
+    "eiqPerHa_atSheetRate": 30.64351954739421
+  },
+  "ABAMECTINA": {
+    "id": "ABAMECTINA",
+    "name": "ABAMECTINA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.4,
+    "conventionalRate": null,
+    "percentAI": 0.018,
+    "eiqPerHa_atSheetRate": 0.5505383606134892
+  },
+  "PERFECTO": {
+    "id": "PERFECTO",
+    "name": "PERFECTO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.175,
+    "eiqPerHa_atSheetRate": 7.492501833253972
+  },
+  "IMAX": {
+    "id": "IMAX",
+    "name": "IMAX",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.178,
+    "eiqPerHa_atSheetRate": 3.6014604889188995
+  },
+  "LIGERO": {
+    "id": "LIGERO",
+    "name": "LIGERO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.276,
+    "eiqPerHa_atSheetRate": 30.095215200715202
+  },
+  "AMISTARTOP": {
+    "id": "AMISTARTOP",
+    "name": "AMISTARTOP",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.0,
+    "conventionalRate": null,
+    "percentAI": 0.325,
+    "eiqPerHa_atSheetRate": 16.969347740671274
+  },
+  "RIDOMILGOLDMZ": {
+    "id": "RIDOMILGOLDMZ",
+    "name": "RIDOMILGOLDMZ",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.6788,
+    "eiqPerHa_atSheetRate": 94.80200612371274
+  },
+  "GRAMOXONE": {
+    "id": "GRAMOXONE",
+    "name": "GRAMOXONE",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.276,
+    "eiqPerHa_atSheetRate": 37.619019000894
+  },
+  "MIRAVISTOP": {
+    "id": "MIRAVISTOP",
+    "name": "MIRAVISTOP",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 5.2249556094
+  },
+  "PANZERGOLD": {
+    "id": "PANZERGOLD",
+    "name": "PANZERGOLD",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.608,
+    "eiqPerHa_atSheetRate": 41.09698755375359
+  },
+  "PUNTO": {
+    "id": "PUNTO",
+    "name": "PUNTO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.35,
+    "eiqPerHa_atSheetRate": 8.497828119920998
+  },
+  "SPHINXSUPRA": {
+    "id": "SPHINXSUPRA",
+    "name": "SPHINXSUPRA",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 1.25,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 46.45323579479565
+  },
+  "PULSARGOLD": {
+    "id": "PULSARGOLD",
+    "name": "PULSARGOLD",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.05,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 1.217135404883526
+  },
+  "FAST": {
+    "id": "FAST",
+    "name": "FAST",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.018,
+    "eiqPerHa_atSheetRate": 1.032259426150292
+  },
+  "TALSTAR": {
+    "id": "TALSTAR",
+    "name": "TALSTAR",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.22,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 2.151050290334
+  },
+  "CLETODIM": {
+    "id": "CLETODIM",
+    "name": "CLETODIM",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.15,
+    "conventionalRate": null,
+    "percentAI": 0.24,
+    "eiqPerHa_atSheetRate": 10.34408933304
+  },
+  "ROMETRI": {
+    "id": "ROMETRI",
+    "name": "ROMETRI",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.05,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 31.519048677319763
+  },
+  "KENDOGOLD": {
+    "id": "KENDOGOLD",
+    "name": "KENDOGOLD",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.05,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 1.217135404883526
+  },
+  "MATRERO": {
+    "id": "MATRERO",
+    "name": "MATRERO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.35,
+    "eiqPerHa_atSheetRate": 7.081523433267499
+  },
+  "TITUS": {
+    "id": "TITUS",
+    "name": "TITUS",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.1,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 0.8730305575199999
+  },
+  "PRESTIGE": {
+    "id": "PRESTIGE",
+    "name": "PRESTIGE",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.29,
+    "eiqPerHa_atSheetRate": 44.8938327273304
+  },
+  "KASUMIN": {
+    "id": "KASUMIN",
+    "name": "KASUMIN",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.07,
+    "eiqPerHa_atSheetRate": 0.2939496827034104
+  },
+  "ACAPELA": {
+    "id": "ACAPELA",
+    "name": "ACAPELA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 3.7836835715749997
+  },
+  "ACROBAT": {
+    "id": "ACROBAT",
+    "name": "ACROBAT",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.69,
+    "eiqPerHa_atSheetRate": 77.41863023390722
+  },
+  "GALGOFOS": {
+    "id": "GALGOFOS",
+    "name": "GALGOFOS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.15,
+    "conventionalRate": null,
+    "percentAI": 0.376,
+    "eiqPerHa_atSheetRate": 4.16417057107032
+  },
+  "PARAQUATRURALCO": {
+    "id": "PARAQUATRURALCO",
+    "name": "PARAQUATRURALCO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.276,
+    "eiqPerHa_atSheetRate": 30.095215200715202
+  },
+  "ROUNDUP": {
+    "id": "ROUNDUP",
+    "name": "ROUNDUP",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.0,
+    "conventionalRate": null,
+    "percentAI": 0.36,
+    "eiqPerHa_atSheetRate": 12.166871315255998
+  },
+  "ARROW": {
+    "id": "ARROW",
+    "name": "ARROW",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.7,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 13.117504589
+  },
+  "DOUGLAS": {
+    "id": "DOUGLAS",
+    "name": "DOUGLAS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 7.390078741710259
+  },
+  "PARAQUAT": {
+    "id": "PARAQUAT",
+    "name": "PARAQUAT",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.04,
+    "eiqPerHa_atSheetRate": 7.7602716223999995
+  },
+  "DICARZOL": {
+    "id": "DICARZOL",
+    "name": "DICARZOL",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.1,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 2.394587602055896
+  },
+  "CLOROTALONIL": {
+    "id": "CLOROTALONIL",
+    "name": "CLOROTALONIL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.75,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 72.1784259924718
+  },
+  "ROTHALONIL": {
+    "id": "ROTHALONIL",
+    "name": "ROTHALONIL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.75,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 103.9369334291594
+  },
+  "STARKLE": {
+    "id": "STARKLE",
+    "name": "STARKLE",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.1,
+    "conventionalRate": null,
+    "percentAI": 0.7,
+    "eiqPerHa_atSheetRate": 3.4352429664840005
+  },
+  "MATSURI": {
+    "id": "MATSURI",
+    "name": "MATSURI",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.15,
+    "conventionalRate": null,
+    "percentAI": 0.249,
+    "eiqPerHa_atSheetRate": 3.377448784608726
+  },
+  "UNIZEB": {
+    "id": "UNIZEB",
+    "name": "UNIZEB",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 102.06520881551998
+  },
+  "BISECT": {
+    "id": "BISECT",
+    "name": "BISECT",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.1,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 0.9777501319700002
+  },
+  "CLORFOS38": {
+    "id": "CLORFOS38",
+    "name": "CLORFOS38",
+    "userUom": "L/ha",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 85.23952897967999
+  },
+  "ZINEB": {
+    "id": "ZINEB",
+    "name": "ZINEB",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 104.8849211465
+  },
+  "ARANYA": {
+    "id": "ARANYA",
+    "name": "ARANYA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.036,
+    "eiqPerHa_atSheetRate": 0.6881729507668614
+  },
+  "COTACUATRO": {
+    "id": "COTACUATRO",
+    "name": "COTACUATRO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.0,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 13.6466140178
+  },
+  "BARON": {
+    "id": "BARON",
+    "name": "BARON",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.276,
+    "eiqPerHa_atSheetRate": 22.5714114005364
+  },
+  "SELECT": {
+    "id": "SELECT",
+    "name": "SELECT",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.7,
+    "conventionalRate": null,
+    "percentAI": 0.24,
+    "eiqPerHa_atSheetRate": 6.2964022027199995
+  },
+  "COMMAND": {
+    "id": "COMMAND",
+    "name": "COMMAND",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.7,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 14.540985322281598
+  },
+  "TEBUCONAZOLE": {
+    "id": "TEBUCONAZOLE",
+    "name": "TEBUCONAZOLE",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 11.11497237491474
+  },
+  "ERNESTOSILVER": {
+    "id": "ERNESTOSILVER",
+    "name": "ERNESTOSILVER",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.3,
+    "conventionalRate": null,
+    "percentAI": 0.118,
+    "eiqPerHa_atSheetRate": 11.587276026967675
+  },
+  "ABAMEX": {
+    "id": "ABAMEX",
+    "name": "ABAMEX",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.02,
+    "eiqPerHa_atSheetRate": 1.1469549179447691
+  },
+  "RACERM": {
+    "id": "RACERM",
+    "name": "RACERM",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.4,
+    "conventionalRate": null,
+    "percentAI": 0.45,
+    "eiqPerHa_atSheetRate": 10.670373481240924
+  },
+  "TIZCA": {
+    "id": "TIZCA",
+    "name": "TIZCA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.6,
+    "conventionalRate": null,
+    "percentAI": 0.384,
+    "eiqPerHa_atSheetRate": 11.852051203426848
+  },
+  "CLORPY-48": {
+    "id": "CLORPY-48",
+    "name": "CLORPY-48",
+    "userUom": "L/ha",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 85.23952897967999
+  },
+  "TIMEROL": {
+    "id": "TIMEROL",
+    "name": "TIMEROL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.247,
+    "eiqPerHa_atSheetRate": 6.20164641966757
+  },
+  "CERILLO": {
+    "id": "CERILLO",
+    "name": "CERILLO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.3,
+    "eiqPerHa_atSheetRate": 33.47792936037641
+  },
+  "FASTAC": {
+    "id": "FASTAC",
+    "name": "FASTAC",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.25,
+    "conventionalRate": null,
+    "percentAI": 0.1,
+    "eiqPerHa_atSheetRate": 1.469748413517052
+  },
+  "CHESS": {
+    "id": "CHESS",
+    "name": "CHESS",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.5,
+    "eiqPerHa_atSheetRate": 6.4705673908023105
+  },
+  "IMIDANOVA": {
+    "id": "IMIDANOVA",
+    "name": "IMIDANOVA",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.4375,
+    "conventionalRate": null,
+    "percentAI": 0.35,
+    "eiqPerHa_atSheetRate": 12.392666008218123
+  },
+  "TRENDINGTOPIC": {
+    "id": "TRENDINGTOPIC",
+    "name": "TRENDINGTOPIC",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.75,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 103.9369334291594
+  },
+  "ARIETE": {
+    "id": "ARIETE",
+    "name": "ARIETE",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.2,
+    "conventionalRate": null,
+    "percentAI": 0.247,
+    "eiqPerHa_atSheetRate": 4.134430946445047
+  },
+  "RETAKER": {
+    "id": "RETAKER",
+    "name": "RETAKER",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 4.51727174838
+  },
+  "PHILPIRIFOS": {
+    "id": "PHILPIRIFOS",
+    "name": "PHILPIRIFOS",
+    "userUom": "L/ha",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 113.65270530624
+  },
+  "PHILAMEC": {
+    "id": "PHILAMEC",
+    "name": "PHILAMEC",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.375,
+    "conventionalRate": null,
+    "percentAI": 0.036,
+    "eiqPerHa_atSheetRate": 1.032259426150292
+  },
+  "SECAFOL": {
+    "id": "SECAFOL",
+    "name": "SECAFOL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.276,
+    "eiqPerHa_atSheetRate": 22.5714114005364
+  },
+  "TRIBUTE": {
+    "id": "TRIBUTE",
+    "name": "TRIBUTE",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.7,
+    "conventionalRate": null,
+    "percentAI": 0.7,
+    "eiqPerHa_atSheetRate": 30.64351954739421
+  },
+  "FOREMAN": {
+    "id": "FOREMAN",
+    "name": "FOREMAN",
+    "userUom": "L/ha",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.276,
+    "eiqPerHa_atSheetRate": 30.095215200715202
+  },
+  "QUADRISTOP": {
+    "id": "QUADRISTOP",
+    "name": "QUADRISTOP",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.296,
+    "eiqPerHa_atSheetRate": 8.166808555914471
+  },
+  "MANTO": {
+    "id": "MANTO",
+    "name": "MANTO",
+    "userUom": "L/ha",
+    "maxRateKgHa": 0.05,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 1.217135404883526
+  },
+  "TALONIL": {
+    "id": "TALONIL",
+    "name": "TALONIL",
+    "userUom": "L/ha",
+    "maxRateKgHa": 1.5,
+    "conventionalRate": null,
+    "percentAI": 0.72,
+    "eiqPerHa_atSheetRate": 89.08880008213663
+  },
+  "RCP": {
+    "id": "RCP",
+    "name": "RCP",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.08,
+    "conventionalRate": null,
+    "percentAI": 0.327,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "DITHANENT(DOW)": {
+    "id": "DITHANENT(DOW)",
+    "name": "DITHANENT(DOW)",
+    "userUom": "L/HA",
+    "maxRateKgHa": 2.5,
+    "conventionalRate": null,
+    "percentAI": 0.8,
+    "eiqPerHa_atSheetRate": 113.4057875728
+  },
+  "HARRIER": {
+    "id": "HARRIER",
+    "name": "HARRIER",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.1,
+    "conventionalRate": null,
+    "percentAI": 0.06,
+    "eiqPerHa_atSheetRate": 0.36151401722759996
+  },
+  "HAKAPHOS": {
+    "id": "HAKAPHOS",
+    "name": "HAKAPHOS",
+    "userUom": "L/HA",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "CAB(STOLLER)": {
+    "id": "CAB(STOLLER)",
+    "name": "CAB(STOLLER)",
+    "userUom": "L/HA",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "CAB": {
+    "id": "CAB",
+    "name": "CAB",
+    "userUom": "L/HA",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "CELEST": {
+    "id": "CELEST",
+    "name": "CELEST",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.75,
+    "conventionalRate": null,
+    "percentAI": 0.2,
+    "eiqPerHa_atSheetRate": 7.891997823944999
+  },
+  "HARRIERBIO": {
+    "id": "HARRIERBIO",
+    "name": "HARRIERBIO",
+    "userUom": "L/HA",
+    "maxRateKgHa": 1.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "MASTERMINSPLUS(STOLLER)": {
+    "id": "MASTERMINSPLUS(STOLLER)",
+    "name": "MASTERMINSPLUS(STOLLER)",
+    "userUom": "L/HA",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "MACROSORB": {
+    "id": "MACROSORB",
+    "name": "MACROSORB",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.225,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "DITHANEM45800WPNT": {
+    "id": "DITHANEM45800WPNT",
+    "name": "DITHANEM45800WPNT",
+    "userUom": "kg/ha",
+    "maxRateKgHa": 2.67,
+    "conventionalRate": null,
+    "percentAI": 0.8,
+    "eiqPerHa_atSheetRate": 121.11738112775039
+  },
+  "ENGEO247SC(SYNGENTA)": {
+    "id": "ENGEO247SC(SYNGENTA)",
+    "name": "ENGEO247SC(SYNGENTA)",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.247,
+    "eiqPerHa_atSheetRate": 6.2016464201239225
+  },
+  "AMINOCAT": {
+    "id": "AMINOCAT",
+    "name": "AMINOCAT",
+    "userUom": "L/HA",
+    "maxRateKgHa": 5.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "PHOSFORUS": {
+    "id": "PHOSFORUS",
+    "name": "PHOSFORUS",
+    "userUom": "L/HA",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "STIMULATE": {
+    "id": "STIMULATE",
+    "name": "STIMULATE",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.279999999999999,
+    "conventionalRate": null,
+    "percentAI": 0.0003,
+    "eiqPerHa_atSheetRate": 0.0006277883372711977
+  },
+  "ENGEO": {
+    "id": "ENGEO",
+    "name": "ENGEO",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.3,
+    "conventionalRate": null,
+    "percentAI": 0.247,
+    "eiqPerHa_atSheetRate": 6.198313722645502
+  },
+  "FULLCONTROL": {
+    "id": "FULLCONTROL",
+    "name": "FULLCONTROL",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.08,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "VIRANTRA": {
+    "id": "VIRANTRA",
+    "name": "VIRANTRA",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.15,
+    "conventionalRate": null,
+    "percentAI": 0.4,
+    "eiqPerHa_atSheetRate": 10.4499112188
+  },
+  "STOLLERBORO": {
+    "id": "STOLLERBORO",
+    "name": "STOLLERBORO",
+    "userUom": "L/HA",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "TRACER": {
+    "id": "TRACER",
+    "name": "TRACER",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.04,
+    "conventionalRate": null,
+    "percentAI": 0.45,
+    "eiqPerHa_atSheetRate": 0.5707767961857226
+  },
+  "WUXALCOMBI": {
+    "id": "WUXALCOMBI",
+    "name": "WUXALCOMBI",
+    "userUom": "L/HA",
+    "maxRateKgHa": 2.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "NATURALOLEO": {
+    "id": "NATURALOLEO",
+    "name": "NATURALOLEO",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.5,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "AGRYGENT": {
+    "id": "AGRYGENT",
+    "name": "AGRYGENT",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.1,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "PITBUL": {
+    "id": "PITBUL",
+    "name": "PITBUL",
+    "userUom": "L/HA",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 0.48,
+    "eiqPerHa_atSheetRate": 113.65270530624
+  },
+  "DIMETOATO": {
+    "id": "DIMETOATO",
+    "name": "DIMETOATO",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.2,
+    "conventionalRate": null,
+    "percentAI": 1.0,
+    "eiqPerHa_atSheetRate": 14.766562308760001
+  },
+  "BARRERA": {
+    "id": "BARRERA",
+    "name": "BARRERA",
+    "userUom": "L/HA",
+    "maxRateKgHa": 1501.5,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "KARATEZEON25%": {
+    "id": "KARATEZEON25%",
+    "name": "KARATEZEON25%",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.05,
+    "conventionalRate": null,
+    "percentAI": 0.25,
+    "eiqPerHa_atSheetRate": 1.217135404883526
+  },
+  "DELTAMETRINA": {
+    "id": "DELTAMETRINA",
+    "name": "DELTAMETRINA",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.075,
+    "conventionalRate": null,
+    "percentAI": 1.0,
+    "eiqPerHa_atSheetRate": 4.693090401773844
+  },
+  "HAKAPHOSBASE": {
+    "id": "HAKAPHOSBASE",
+    "name": "HAKAPHOSBASE",
+    "userUom": "KG/HA",
+    "maxRateKgHa": 4.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "LANCER97DF": {
+    "id": "LANCER97DF",
+    "name": "LANCER97DF",
+    "userUom": "L/HA",
+    "maxRateKgHa": 0.54,
+    "conventionalRate": null,
+    "percentAI": 0.75,
+    "eiqPerHa_atSheetRate": 22.21763560572876
+  },
+  "PHOSFORUS(STOLLER)": {
+    "id": "PHOSFORUS(STOLLER)",
+    "name": "PHOSFORUS(STOLLER)",
+    "userUom": "L/HA",
+    "maxRateKgHa": 3.0,
+    "conventionalRate": null,
+    "percentAI": 0.01,
+    "eiqPerHa_atSheetRate": 0.0
+  },
+  "CARBOXIN/THIRAM": {
+    "id": "CARBOXIN/THIRAM",
+    "name": "CARBOXIN/THIRAM",
+    "userUom": "L/HA",
+    "maxRateKgHa": 1.0,
+    "conventionalRate": null,
+    "percentAI": 0.4,
+    "eiqPerHa_atSheetRate": 21.15776328414
+  }
+}
